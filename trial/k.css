@@ -1,0 +1,157 @@
+.container{
+  max-width: 960px;
+  margin: 0 auto;
+  background:#efefef ;
+  font-size: 24px;
+  padding: 25px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.team{
+  background: #f9f9f9;
+  text-align: center;
+  font-size: 100px;
+}
+
+img.logo{
+  padding: 100px 250px 40px 300px;
+  width: 350px;
+  height: 400px;
+  overflow: hidden;
+  margin: 10px;
+  
+}
+
+.header h1{
+  margin: 0 auto;
+  padding-top: 110px;
+  text-align: center;
+}
+
+.header h2{
+  margin: 0 auto;
+  padding: 80px 0px 0px 0px;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+hr.divider {
+  max-width: 20rem;
+  border-width: 0.12rem;
+  border-color: #f4623a;
+}
+
+.header p{
+  margin: 0 auto;
+  padding: 80px 0px 0px 0px;
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-style: italic;
+  
+}
+
+.header i {
+    border-radius: 50px;
+    display: inline-block;
+    font-size: 30px;
+    height: 80px;
+    line-height: 80px;
+    margin-right: 0.3rem;
+    margin-top: -0.4rem;
+    text-align: center;
+    vertical-align: middle;
+    width: 80px;
+    background-color: #ff6347;
+    color: white;
+}
+
+
+.getintouch {
+  margin: 80px 0px 0px 0px;
+  background-color: #f9f9f9;
+  border-left: 4px solid red;
+  max-width:20rem; 
+  border-right: 4px solid red;
+  font-size: 16px
+}
+
+.getintouch h1{
+  padding-top: 10px;
+  margin: 10px;
+  text-align: inherit;
+}
+
+
+.item {
+  padding: 20px 10px 30px 0px;
+}
+
+.contact{
+  margin: 80px 0px 0px 0px;
+  background-color: #f9f9f9;
+  border-left: 4px solid red;
+  max-width:15rem; 
+  border-right: 4px solid red;
+  font-size: 16px
+}
+
+.contact h1{
+  margin: 10px;
+  text-align: inherit;
+}
+
+.o {
+  font-size: 30px;
+  padding-left: 20px;
+}
+
+
+.item{
+  display: flex;
+  justify-content: inherit;
+  align-items: inherit;
+  flex-direction: column;
+  background: #efefef;
+}
+
+ul{
+  position: inherit;
+  display: flex;
+  margin: 20px 0;
+}
+
+ul li{
+  position: inherit;
+  list-style: none;
+}
+
+ul li a{
+  display: block;
+  width: 50px;
+  height: 50px;
+  background: #f9f9f9;
+  line-height: 55px;
+  text-align: center;
+  margin: 0 15px;
+  border-radius: 15px;
+  box-shadow: -2px -2px 3px rgba(255,255,255,0.05), 3px 3px 3px rgba(0,0,0,0.2)
+}
+
+ul li a .fa{
+  font-size: 22px;
+  color: #555;
+}
+
+ul li a:hover .fa{
+  color: #f00;
+  text-shadow: 0 0 15px #f00;
+}
+
+
+
+
+
+
+
